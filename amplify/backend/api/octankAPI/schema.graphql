@@ -1,0 +1,10 @@
+type Event @model {
+  id: ID!
+  user_id: String!
+  title: String!
+  description: String!
+  thumbnailurl: String!
+  videourl: String!
+  upvotes: Int
+  downvotes: Int
+}

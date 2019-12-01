@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "octankAPI",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authoctankui0b67b7c9",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

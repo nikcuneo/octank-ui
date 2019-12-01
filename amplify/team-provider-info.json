@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "octank-ui-dev-20190924224139-authRole",
+            "UnauthRoleArn": "arn:aws:iam::207356633479:role/octank-ui-dev-20190924224139-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::207356633479:role/octank-ui-dev-20190924224139-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "octank-ui-dev-20190924224139-deployment",
+            "UnauthRoleName": "octank-ui-dev-20190924224139-unauthRole",
+            "StackName": "octank-ui-dev-20190924224139",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:207356633479:stack/octank-ui-dev-20190924224139/a80758b0-dec8-11e9-8183-0a22482df5aa"
+        },
+        "categories": {
+            "auth": {
+                "octankui0b67b7c9": {}
+            }
+        }
+    }
+}
